@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:35.023123
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 法華宗要
 #+PROPERTY: CBETA_ID T34n1725
 #+PROPERTY: ID KR6d0032
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 34, No. 1725
 #+PROPERTY: VOL 34
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0032_T_000-0870c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0032_T_001-0870c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1725[cf.No.262]¶
-
- 法華宗要¶
+No. 1725 [cf. No. 262]¶
+法華宗要¶
 ¶
 元曉師撰¶
 
@@ -36,7 +35,7 @@ No.1725[cf.No.262]¶
 非玄。則離麁之軌乃稱妙法。權華開敷實菓¶
 泰彰。無染之美假喻蓮花。然妙法妙絕。何三¶
 何一至久至冥。誰短誰長茲□□總入之不¶
-易。諸子瀾漫出之良難。是如來引之□權羨¶
+易。諸子瀾漫出之良難。是如來引之□權羡¶
 □車。於鹿苑示有□之麁身。駕白牛於鷲岳¶
 顯無限之長命。斯迺□一以破三。三除一捨。
 <pb:KR6d0032_T_001-0871a>¶
