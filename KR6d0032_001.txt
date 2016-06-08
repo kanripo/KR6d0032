@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:35.023123
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:08
 #+TITLE: 法華宗要
 #+PROPERTY: CBETA_ID T34n1725
 #+PROPERTY: ID KR6d0032
